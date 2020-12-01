@@ -1,0 +1,11 @@
+version: "3.8"
+
+services: 
+    faunadb:
+        image: fauna/faunadb:latest
+        ports:
+            - 8443:8443
+            - 8084:8084
+        volumes: 
+            - ./logs:/var/log/faunadb
+            - ./storage:/var/lib/faunadb

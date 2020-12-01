@@ -1,0 +1,16 @@
+[
+    {
+        "label": "first_name",
+        "description": "Your first name, duhhh",
+        "required": true,
+        "tooltip": "Do u even spell bruh?",
+        "validation": "Ly4qLw=="
+    },
+    {
+        "label": "address",
+        "description": "This is where you live",
+        "required": true,
+        "tooltip": "Even thou this is a required field, some people don't have homes.",
+        "validation": "Ly4qLw=="
+    }
+]

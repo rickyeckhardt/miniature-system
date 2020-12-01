@@ -1,0 +1,24 @@
+{
+    "title": "New Agent Onboarding",
+    "complete": false,
+    "fields": [
+        [
+            {
+                "label": "Name"
+            },
+            "first_name",
+            "middle_name",
+            "last_name"
+        ],
+        [
+            {
+                "label": "Location"
+            },
+            "address",
+            "state",
+            "city",
+            "zip"
+        ],
+        "mls"
+    ]
+}
